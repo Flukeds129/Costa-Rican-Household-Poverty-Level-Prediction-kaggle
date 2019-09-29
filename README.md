@@ -1,1 +1,1 @@
-# Costa-Rican-Household-Poverty-Level-Prediction-kaggle
+# Costa Rican Household Poverty Level Prediction
